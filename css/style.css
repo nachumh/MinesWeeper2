@@ -1,0 +1,11 @@
+.td {
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    transition: 0.5ms;
+}
+
+.board {
+    margin:auto;
+    text-align: center;
+}
